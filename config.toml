@@ -1,8 +1,8 @@
-baseurl = "https://ashpex.gitlab.io/"
+baseurl = "https://ashpex.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
-
+publishDir = "ashpex.github.io"
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
